@@ -1,4 +1,4 @@
-# Cherry-MC
+# Cherry
 
 Welcome to Cherry, a light minecraft modpack with every type of mod you could want.
 
